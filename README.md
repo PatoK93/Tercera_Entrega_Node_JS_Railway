@@ -16,3 +16,5 @@
 4. Se puede mejorar el codigo y su organizacion. Esto se contemplara para la entrega final.
 5. Mejorar el diseño del mail para el usuario.
 6. Agregar un front?
+7. Mejorar la validacion de los campos que ingresa el usuario en productos por ejemplo.
+8. No mostrar el stock en el carrito, sino que apilar los productos en uno solo y mostrrar la cantidad a llevar. Cuando se saque uno solo retirar una unidad, o, mejor aun, dejar que el usuario eliga cuantas agregar y cuantas eliminar.
