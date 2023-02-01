@@ -1,4 +1,4 @@
-import "dotenv/config";
+import dotenv from "dotenv";
 import cluster from "cluster";
 import os from "os";
 import server from "./services/server.js";
@@ -6,6 +6,7 @@ import { initDb } from "./db/db.js";
 import { infoLogger, warnLogger, errorLogger } from "./logs/index.js";
 
 const numCPUs = os.cpus().length;
+dotenv.config();
 
 const init = async () => {
   if (cluster.isPrimary) {
