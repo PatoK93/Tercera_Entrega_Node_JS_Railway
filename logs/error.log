@@ -395,3 +395,847 @@
   address: null,
   port: 8080
 }
+[2023-02-01T11:31:42.603] [ERROR] myLoggerError - PID MASTER= 18844
+[2023-02-01T11:31:47.246] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:31:47.252] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:31:47.357] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:31:47.387] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:31:47.597] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:31:47.625] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:31:47.894] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:31:47.905] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:31:52.600] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:31:52.645] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:31:52.810] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:31:52.812] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:31:52.909] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:31:52.910] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:31:52.918] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:31:52.959] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:31:53.015] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:31:53.073] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:31:53.078] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:31:53.095] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:33:56.951] [ERROR] myLoggerError - PID MASTER= 19756
+[2023-02-01T11:34:01.505] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:34:01.566] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:34:01.664] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:34:01.763] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:34:01.836] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:34:02.098] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:34:02.192] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:34:07.335] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:34:07.337] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:34:07.340] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:34:07.386] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:34:07.586] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:34:08.086] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:34:13.385] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:34:13.462] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:34:13.575] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:34:13.597] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:34:17.309] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:34:17.311] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:34:22.624] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:36:43.242] [ERROR] myLoggerError - PID MASTER= 26164
+[2023-02-01T11:36:47.898] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:36:47.994] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:36:48.077] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:36:48.123] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:36:48.221] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:36:48.234] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:36:48.236] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:36:48.365] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:36:48.417] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:36:48.431] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:36:48.468] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:36:53.103] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:36:53.118] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:36:53.539] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:36:53.558] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:36:53.563] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:36:53.580] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:36:58.216] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:36:58.621] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:36:58.648] [ERROR] myLoggerError - Catch de error en servidor! Error: bind EADDRINUSE null:8080
+    at listenOnPrimaryHandle (node:net:1397:18)
+    at shared (node:internal/cluster/child:149:3)
+    at Worker.<anonymous> (node:internal/cluster/child:106:7)
+    at process.onInternalMessage (node:internal/cluster/utils:49:5)
+    at process.emit (node:events:532:35)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21) {
+  errno: -4091,
+  code: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 8080
+}
+[2023-02-01T11:37:42.218] [ERROR] myLoggerError - PID MASTER= 6632
